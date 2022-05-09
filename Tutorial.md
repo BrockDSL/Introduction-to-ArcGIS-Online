@@ -34,8 +34,16 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 
 The New Map Viewer is composed of a dark toolbar on the left and a light toolbar on the right. Depending on the tool you have selected, various panels will appear.  
 
-At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg).  
+At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg). 
+
 2. Click these buttons to collapse or expand the menus.  
-3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) to collapse all menus and panels at once.
+3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) to collapse all menus and panels at once.  
+4. To search for a location, click Map Tools ![map tools](./Intro-to-AGOL-images/agol06.jpg) from the right menu and click Search. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
+5. Use the mouse scroll wheel or the zoom tools to pan and zoom on the map.
+
+    ![map zoom](./Intro-to-AGOL-images/agol08.jpg)  
+    
+6. The map viewer provides ready-made basemaps to choose from. From the left, click the basemap button ![image](https://user-images.githubusercontent.com/45638590/167464122-92cc4728-d907-4b24-9c33-f7e9c24d5c17.png)
+
 
 
