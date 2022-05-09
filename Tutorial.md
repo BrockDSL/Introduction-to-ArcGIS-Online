@@ -20,7 +20,7 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 6. Click **BROCK UNIVERSITY**    
 7. This action should direct you to the Brock University authentication page. Enter your Brock credentials and click **Sign in**.  
 
-    ![AGOL homepage](agol02.jpg)  
+    ![AGOL homepage](./Intro-to-AGOL-images/agol02.jpg)  
     
 ---
 
