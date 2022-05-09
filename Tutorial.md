@@ -30,6 +30,6 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 
     ![map interface](./Intro-to-AGOL-images/agol03.jpg)  
     
-**NOTE: If the default viewer does not look like the above screenshot, you may have to click 'Open in map view' at the top right.**
+**NOTE: If the default viewer does not look like the above screenshot, you may have to click 'Open in new map viewer' at the top right.**
 
 
