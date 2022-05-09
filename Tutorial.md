@@ -32,4 +32,10 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
     
 **NOTE: If the default viewer does not look like the above screenshot, you may have to click 'Open in new map viewer' at the top right.**
 
+The New Map Viewer is composed of a dark toolbar on the left and a light toolbar on the right. Depending on the tool you have selected, various panels will appear.  
+
+At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg).  
+2. Click these buttons to collapse or expand the menus.  
+3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) to collapse all menus and panels at once.
+
 
