@@ -14,7 +14,7 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 3. Click **Your ArcGIS Organization's URL**  
 4. Complete the URL by entering the text **brock**  
 
-    ![Brock organization](agol01.jpg)  
+    ![Brock organization](./Intro-to-AGOL-images/agol01.jpg)  
 
 5. Click **Continue**
 6. Click **BROCK UNIVERSITY**    
