@@ -43,7 +43,11 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
     ![map zoom](./Intro-to-AGOL-images/agol08.jpg)  
     
-6. The map viewer provides ready-made basemaps to choose from. From the left, click the basemap button ![image](https://user-images.githubusercontent.com/45638590/167464122-92cc4728-d907-4b24-9c33-f7e9c24d5c17.png)
+6. The map viewer provides ready-made basemaps to choose from. Click the basemap button ![map zoom](./Intro-to-AGOL-images/agol09.jpg) on the left and explore the options. Before continuing, select a topographic option.  
+7. To save your map, click the save > save as button ![map save](./Intro-to-AGOL-images/agol10.jpg)  
+8. Enter a unique map name that does not include special characters. Click save. All of your work is saved in the cloud making it accessible from any device with internet connection.  
+
+
 
 
 
