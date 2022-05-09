@@ -26,4 +26,10 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 
 ### Section Two: The Interface  
 
-1. 
+1. From the menus at the top, click **Map**. This action opens the default map viewer and should look like this:  
+
+    ![map interface](./Intro-to-AGOL-images/agol03.jpg)  
+    
+**NOTE: If the default viewer does not look like the above screenshot, you may have to click 'Open in map view' at the top right.**
+
+
