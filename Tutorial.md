@@ -1,6 +1,6 @@
 
 ## Introduction to ArcGIS Online  
-...a step-by-step tutorial to accompany the workshop  
+...a step-by-step tutorial to accompany the [workshop](readme.md)    
 
 
 ---
