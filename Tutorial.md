@@ -67,12 +67,17 @@ There are a variety of ways to add data to your map. This tutorial will describe
 4. Enter the search term **Secord walking route**.
 5. Look for the results that match this image: ![image](https://user-images.githubusercontent.com/45638590/167669109-6dbe8ea6-b3cf-44c3-a9db-6f591620ce72.png)
 6. Click the small plus sign to add each layer to the map. You should have 2 layers: "Secord Walking Route" and "Secord Walking Destinations".
-7. Click the back arrow beside **Add layer** at the top left of the panel. ![map gray](./Intro-to-AGOL-images/agol14.jpg)  
+7. Click the back arrow beside **Add layer** at the top left of the panel. ![add layer](./Intro-to-AGOL-images/agol14.jpg)  
     
     ![image](https://user-images.githubusercontent.com/45638590/167670439-d7d66bd7-a65f-4dc5-bb8d-1d4634bdb0c0.png)  
     
 8. If necessary, drag and drop the layers such that the 'destinations' layer is on top of the 'route' layer.
 9. A layer is selected when there is a vertical blue bar along the side. With the 'Destinations' layer selected, click **Edit layer style** from the right side panel.
-10.  
+10. From the **Styles** panel, under step 2, click **Style options** below **Pick a style**.
+11. Click the symbol below **Symbol style**.
+12. Click the dropdown for **Basic shapes** and select **Pins**.
+13. Select a pushpin and increase the size to 30.  
+14. Click the X at the top of the **Symbol style** panel and click Done twice.
+15. 
 
 
