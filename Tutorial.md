@@ -118,7 +118,16 @@ There are a variety of ways to add data to your map. This tutorial will describe
 The features on the map have corresponding attributes in a joined table. These particular layers include a **Description** field that we will use to populate the pop-ups.
 
 1. With the **Destinations** layer selected, click the **Configure pop-ups** tool ![image](https://user-images.githubusercontent.com/45638590/167682093-f223eb78-8140-419d-83d3-13f8dc434ede.png) from the right side menu.  
-2. 
+2. Click **Title** and replace the default entry with {Destin}. This will give each pop-up the title that correlates to the destination name.  
+   ![image](https://user-images.githubusercontent.com/45638590/167682560-3682efb7-b8e3-4541-9ce8-2628b30affd2.png)
+3. Delete the **Fields list** by clicking the 3 dots and selecting **Delete**.
+4. Click **Add Content** and select **Text**. In the text box enter {Descript} and click OK. The curly brackets tell the software to pull the information from the field in the table that holds the description.  
+
+    ![image](https://user-images.githubusercontent.com/45638590/167683365-95df0ddc-a4ae-4831-96ea-3d883eec6ec0.png)  
+    
+5. Save your map.
+
+
 
    
  
