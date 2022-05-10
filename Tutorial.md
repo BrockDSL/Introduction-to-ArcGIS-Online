@@ -96,6 +96,29 @@ There are a variety of ways to add data to your map. This tutorial will describe
 
 ![image](https://user-images.githubusercontent.com/45638590/167680298-6fe2d080-f42f-4782-82bc-a10782145592.png)
 
+    
+---
 
+### Section Four: Labels  
 
+1. Select the **Destinations** layer.
+2. From the menu down the right side of the map, click the **Labels** tool ![image](https://user-images.githubusercontent.com/45638590/167680933-0647198e-4ebf-4fae-a4a8-1126cf45f1b8.png). The **Label features** panel opens.  
+3. Click ![image](https://user-images.githubusercontent.com/45638590/167681127-909849e2-2da3-4248-ba8a-6ca1eae8189a.png)  
+4. Under **Label Field** select the field "Destination" and click **Replace**.
+5. Click **Label style** to open this panel.
+6. Change the colour to black.
+7. Adjust the placement so the **Offset Y** is 10.  
 
+    ![image](https://user-images.githubusercontent.com/45638590/167681687-2bf0436c-4741-40ad-a128-ea9bc1b6eb8c.png)  
+    
+---
+
+### Section Five: Pop-ups
+
+The features on the map have corresponding attributes in a joined table. These particular layers include a **Description** field that we will use to populate the pop-ups.
+
+1. With the **Destinations** layer selected, click the **Configure pop-ups** tool ![image](https://user-images.githubusercontent.com/45638590/167682093-f223eb78-8140-419d-83d3-13f8dc434ede.png) from the right side menu.  
+2. 
+
+   
+ 
