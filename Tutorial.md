@@ -37,23 +37,24 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg). 
 
 2. Click these buttons to collapse or expand the menus.  
-3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom right of the map view) to collapse all menus and panels at once.  
+3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom right of the map view) to hide/show all menus and panels at once.  
 4. To search for a location, click Map Tools ![map tools](./Intro-to-AGOL-images/agol06.jpg) from the right menu and click Search. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
 5. Use the mouse scroll wheel or the zoom tools to pan and zoom on the map.
 
     ![map zoom](./Intro-to-AGOL-images/agol08.jpg)  
     
 6. The map viewer provides ready-made basemaps to choose from. Click the basemap button ![map zoom](./Intro-to-AGOL-images/agol09.jpg) on the left and explore the options. Before continuing, select the *Light Gray Canvas* option.  
-7. At the top of the Basemap listing options, click **Current basemap >**
+7. At the top of the Basemap listing options, click **Current basemap >**  
     ![image](https://user-images.githubusercontent.com/45638590/167661335-208b5274-d2a0-486c-9d38-53e9bed3f426.png)
-8. Click the eyeball icon to turn off the *Light Gray Reference* layer ![image](https://user-images.githubusercontent.com/45638590/167661677-554c9784-d6f0-4679-8282-bfab3d799d9b.png). This action turns off the placename labels.
+8. Click the eyeball icon to turn off the *Light Gray Reference* layer.  
+   ![image](https://user-images.githubusercontent.com/45638590/167661677-554c9784-d6f0-4679-8282-bfab3d799d9b.png)
+   This action turns off the placename labels.
 
-![image](https://user-images.githubusercontent.com/45638590/167662115-387d0255-a598-4264-9da9-7823f56d6636.png)
-
-    ![map gray](./Intro-to-AGOL-images/agol13.jpg)  
+![image](https://user-images.githubusercontent.com/45638590/167662115-387d0255-a598-4264-9da9-7823f56d6636.png) 
     
 9. To save your map, click the save > save as button ![map save](./Intro-to-AGOL-images/agol10.jpg)  
-10. Enter a unique map name that does not include special characters. Click save. All of your work is saved in the cloud making it accessible from any device with internet connection.  
+10. Enter a unique map name that does not include special characters. 
+11. Click save. All of your work is saved in the cloud, making it accessible from any device with internet connection.  
 
 ---
 
