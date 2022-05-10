@@ -47,6 +47,10 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 7. To save your map, click the save > save as button ![map save](./Intro-to-AGOL-images/agol10.jpg)  
 8. Enter a unique map name that does not include special characters. Click save. All of your work is saved in the cloud making it accessible from any device with internet connection.  
 
+---
+
+### Section Three: Layers & Symbology
+
 
 
 
