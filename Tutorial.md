@@ -37,7 +37,7 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg). 
 
 2. Click these buttons to collapse or expand the menus.  
-3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom left of the map view) to collapse all menus and panels at once.  
+3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom right of the map view) to collapse all menus and panels at once.  
 4. To search for a location, click Map Tools ![map tools](./Intro-to-AGOL-images/agol06.jpg) from the right menu and click Search. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
 5. Use the mouse scroll wheel or the zoom tools to pan and zoom on the map.
 
