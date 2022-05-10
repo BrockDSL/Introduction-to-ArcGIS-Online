@@ -25,7 +25,7 @@ Required:
 ----
 
 ## Helpful Materials
-Tutorial link
+[Tutorial](Tutorial.md)  
 
 ----
 
