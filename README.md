@@ -23,13 +23,14 @@ Required:
 ----
 
 ## Helpful Materials
-[Tutorial](Tutorial.md)  
+[Introduction to ArcGIS Online - Tutorial](Tutorial.md)  
+
 
 ----
 
 ## Follow Up Material
-Link to StoryMaps tutorial  
-Links to AGOL resources
+[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/StoryMaps-Demo2/)    
+
 
 ----
   
