@@ -75,8 +75,9 @@ There are a variety of ways to add data to your map. This tutorial will describe
 7. Click the back arrow beside **Add layer** at the top left of the panel.   
     
     ![add layer](./Intro-to-AGOL-images/agol14.jpg)  
-    
-    ![image](https://user-images.githubusercontent.com/45638590/167670439-d7d66bd7-a65f-4dc5-bb8d-1d4634bdb0c0.png)  
+    -
+    ![image](https://user-images.githubusercontent.com/45638590/167670439-d7d66bd7-a65f-4dc5-bb8d-1d4634bdb0c0.png)
+    -
     
 8. If necessary, drag and drop the layers such that the 'destinations' layer is on top of the 'route' layer.
 9. A layer is selected when there is a vertical blue bar along the side. With the 'Destinations' layer selected, click **Edit layer style** from the right side panel.
@@ -84,7 +85,7 @@ There are a variety of ways to add data to your map. This tutorial will describe
 11. Click the symbol below **Symbol style**.
 12. Click the dropdown for **Basic shapes** and select **Pins**.
 13. Select a pushpin and increase the size to 30.  
-14. Click the X at the top of the **Symbol style** panel and click Done twice.
+14. Click the X at the top of the **Symbol style** panel and click **Done** twice.
 15. Now, let's touch up the symbols for the walking route. Click the **walking route** layer to select it.  
 16. From the **Styles** panel, click **Unique symbols > Style options**.
    ![image](https://user-images.githubusercontent.com/45638590/167679245-26130c58-62b9-4652-9666-6c61d6d6ff8e.png)
@@ -96,7 +97,7 @@ There are a variety of ways to add data to your map. This tutorial will describe
 20. Select an **Arrow** to add an arrowhead to the end of each segment.  
 
     ![image](https://user-images.githubusercontent.com/45638590/167680153-65ac20e3-b7f7-4b29-a20c-af386ac90a3f.png)
-21. Click Done twice. 
+21. Click **Done** twice. 
 22. Save your map ![image](https://user-images.githubusercontent.com/45638590/167680401-f3f09a86-a826-4075-ab2c-4decd3086479.png).  
 
 23. Your map should look similar to the screenshot below.
