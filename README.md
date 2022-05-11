@@ -12,7 +12,7 @@ This story begs for a map. Although many have been created, we will develop an i
 ----
 
 ## Setup Instructions
-In preparation for this workshop, you will need an ArcGIS Online account. Brock University affiliates will use their Brock credentials to sign into ArcGIS Online. Public users can sign up for a free public account [here](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token)
+In preparation for this workshop, you will need an ArcGIS Online account. Brock University affiliates will use their Brock credentials to sign into ArcGIS Online. Public users can sign up for a free public account [here](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token).
 
 Required:
  - ArcGIS Online is a cloud-based GIS software. No installation is required.
@@ -28,7 +28,7 @@ Required:
 ----
 
 ## Follow Up Material
-Link to StoryMaps tutorial
+Link to StoryMaps tutorial  
 Links to AGOL resources
 
 ----
