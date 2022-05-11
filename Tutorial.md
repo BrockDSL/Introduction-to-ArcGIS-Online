@@ -52,7 +52,7 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 ![image](https://user-images.githubusercontent.com/45638590/167662115-387d0255-a598-4264-9da9-7823f56d6636.png) 
     
-9. To save your map, click the save > save as button ![map save](./Intro-to-AGOL-images/agol10.jpg)  
+9. To save your map, click the Save > Save as button ![map save](./Intro-to-AGOL-images/agol10.jpg)  
 10. Enter a unique map name that does not include special characters. 
 11. Click save. All of your work is saved in the cloud, making it accessible from any device with internet connection.  
 
