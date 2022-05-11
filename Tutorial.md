@@ -5,7 +5,7 @@
 
 ---
 
-### Section One: Signing in  
+### Section 1: Signing in  
 
 If you are an organization affiliate (i.e. a member of the Brock University community) follow these steps:  
 
@@ -24,7 +24,7 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
     
 ---
 
-### Section Two: The Interface  
+### Section 2: The Interface  
 
 1. From the menus at the top, click **Map**. This action opens the default map viewer and should look like this:  
 
@@ -58,7 +58,7 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 ---
 
-### Section Three: Layers & Symbology
+### Section 3: Layers & Symbology
 
 There are a variety of ways to add data to your map. This tutorial will describe adding layers from within ArcGIS Online. 
 
@@ -107,7 +107,7 @@ There are a variety of ways to add data to your map. This tutorial will describe
     
 ---
 
-### Section Four: Labels  
+### Section 4: Labels  
 
 1. Select the **Destinations** layer.
 2. From the menu down the right side of the map, click the **Labels** tool ![image](https://user-images.githubusercontent.com/45638590/167680933-0647198e-4ebf-4fae-a4a8-1126cf45f1b8.png). The **Label features** panel opens.  
@@ -121,7 +121,7 @@ There are a variety of ways to add data to your map. This tutorial will describe
     
 ---
 
-### Section Five: Pop-ups
+### Section 5: Pop-ups
 
 The features on the map have corresponding attributes in a joined table. These particular layers include a **Description** field that we will use to populate the pop-ups.
 
@@ -135,7 +135,16 @@ The features on the map have corresponding attributes in a joined table. These p
     
 5. Save your map.
 
+### Section 6: Access
 
+1. To access the map at a later time, sign in to ArcGIS.com using the same credentials you used to create the map. 
+2. Click **Content** at the top of the window. You will see a listing of all your ArcGIS Online items. 
+3. Click the title of an item to access the Item Description page.
+4. Click the thumbnail image to open in the map viewer.
+
+---
+
+Contact [maplib@brocku.ca](mailto:maplib@brocku.ca) for assistance with the technology or to inquire about using ArcGIS Online or ArcGIS StoryMaps at Brock University.
 
    
  
