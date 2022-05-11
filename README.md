@@ -1,10 +1,8 @@
-Add in the workshop image here using the referential link at the bottom of the README file
-
-![Tool Logo](Image filename)
+![Tool Logo](ArcGISOnline.png)
 
 
 # Introduction to ArcGIS Online
-This workshop aims to introduce attendees to the popular web-mapping GIS by Esri, Inc. known as ArcGIS Online. This tool is available to public users however, those who are affiliated with Brock University will have more functionality available via the Brock University Educational Site License. 
+This workshop aims to introduce attendees to the popular web-mapping GIS by Esri, Inc. known as **ArcGIS Online**. This tool is available to public users however, those who are affiliated with Brock University will have more functionality available via the Brock University Educational Site License. 
 
 The scenario we will be looking at is the historic journey that Laura Secord took from Queenston, Ontario to Thorold, Ontario on June 22, 1813 to warn Lt. Fitzgibbon of an impending attack by the Americans. To get a sense of the story, read this article by the late Alun Hughes [Following in Laura's Footsteps]( https://brocku.ca/social-sciences/geography/wp-content/uploads/sites/152/Following-in-Laura%E2%80%99s-Footsteps.pdf) and watch this brief Heritage Minute on YouTube: [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA)
 
