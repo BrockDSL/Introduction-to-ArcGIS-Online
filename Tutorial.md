@@ -66,9 +66,11 @@ There are a variety of ways to add data to your map. This tutorial will describe
 2. Click ![image](https://user-images.githubusercontent.com/45638590/167663862-50b11255-7a83-4f87-95ea-63684266dd8e.png)
 3. Click the dropdown beside **My Content** and select **ArcGIS Online**. This action will allow you to search all of ArcGIS Online for data layers. For the purposes of this tutorial, 2 layers have been created representing Laura Secord's walking route and the destinations of each of the 5 phases.  
 4. Enter the search term **Secord walking route**.
-5. Look for the results that match this image: ![image](https://user-images.githubusercontent.com/45638590/167669109-6dbe8ea6-b3cf-44c3-a9db-6f591620ce72.png)
+5. Look for the results that match this image: 
+    ![image](https://user-images.githubusercontent.com/45638590/167669109-6dbe8ea6-b3cf-44c3-a9db-6f591620ce72.png)  
 6. Click the small plus sign to add each layer to the map. You should have 2 layers: "Secord Walking Route" and "Secord Walking Destinations".
-7. Click the back arrow beside **Add layer** at the top left of the panel. ![add layer](./Intro-to-AGOL-images/agol14.jpg)  
+7. Click the back arrow beside **Add layer** at the top left of the panel. 
+    ![add layer](./Intro-to-AGOL-images/agol14.jpg)  
     
     ![image](https://user-images.githubusercontent.com/45638590/167670439-d7d66bd7-a65f-4dc5-bb8d-1d4634bdb0c0.png)  
     
