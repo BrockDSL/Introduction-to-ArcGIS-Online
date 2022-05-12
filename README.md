@@ -29,7 +29,7 @@ Required:
 ----
 
 ## Follow Up Material
-[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/StoryMaps-Demo2/)    
+[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps/)    
 
 
 ----
