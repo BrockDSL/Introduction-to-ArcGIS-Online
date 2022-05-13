@@ -146,7 +146,7 @@ The features on the map have corresponding attributes in a joined table. These p
 
 ### Section 7: Next Steps
 
-1. Now that you have a map created, why not try out ArcGIS StoryMaps for sharing your story with others? Check out the [tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps/). 
+1. Now that you have a map created, why not try out ArcGIS StoryMaps for sharing your story with others? Check out the [tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps/Tutorial). 
 
     
 ---
