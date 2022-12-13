@@ -1,1 +1,3 @@
+This workshop aims to introduce attendees to the popular web-mapping GIS by Esri, Inc. known as ArcGIS Online. Using data about Laura Secord's historic journey, attendees will learn to make an interactive map showing the proposed route that Laura took on that fateful day.
 
+No experience with ArcGIS is required for this workshop.
