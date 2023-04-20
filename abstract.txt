@@ -1,3 +1,5 @@
-This workshop aims to introduce attendees to the popular web-mapping GIS by Esri, Inc. known as ArcGIS Online. Using data about Laura Secord's historic journey, attendees will learn to make an interactive map showing the proposed route that Laura took on that fateful day.
+Join us on a journey of exploration as we attempt to introduce ArcGIS Online Map Viewer by accessing various data sources, applying filters, creating pop-ups and routing using the analysis tools. Laura Secord’s fateful journey from Queenston, Ontario to Thorold, Ontario on June 22, 1813 will be the subject matter. Watch as her historic journey comes to new life using GIS technologies!
 
-No experience with ArcGIS is required for this workshop.
+The follow-up workshop will see the journey continue by creating an ArcGIS StoryMap for presenting narrative, images, maps and more regarding the subject matter. 
+
+No experience with ArcGIS is required to attend this workshop.
