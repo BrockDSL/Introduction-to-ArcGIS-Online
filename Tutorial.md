@@ -38,7 +38,8 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 2. Click these buttons to collapse or expand the menus.  
 3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom right of the map view) to hide/show all menus and panels at once.  
-4. To search for a location, click Map Tools ![map tools](./Intro-to-AGOL-images/agol06.jpg) from the right menu and click Search. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
+4. To search for a location, click the magnifying glass ![search tool magnifying glass](https://user-images.githubusercontent.com/45638590/235160670-63d561d6-3570-47f4-af38-b3ab24c5963c.png)
+ from the lower right options. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
 5. Use the mouse scroll wheel or the zoom tools to pan and zoom on the map.
 
     ![map zoom](./Intro-to-AGOL-images/agol08.jpg)  
@@ -62,8 +63,8 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 There are a variety of ways to add data to your map. This tutorial will describe adding layers from within ArcGIS Online. 
 
-1. Click the layers button ![image](https://user-images.githubusercontent.com/45638590/167663733-dd9b3eca-cb23-4c99-8a0c-d37e0a49c1b8.png)
-2. Click ![image](https://user-images.githubusercontent.com/45638590/167663862-50b11255-7a83-4f87-95ea-63684266dd8e.png)
+1. Click the layers button ![layers image](https://user-images.githubusercontent.com/45638590/167663733-dd9b3eca-cb23-4c99-8a0c-d37e0a49c1b8.png)
+2. Click ![image add layer](https://user-images.githubusercontent.com/45638590/235161762-80e9b702-430b-4e0a-91cc-6c942a901d4c.png)
 3. Click the dropdown beside **My Content** and select **ArcGIS Online**. This action will allow you to search all of ArcGIS Online for data layers. For the purposes of this tutorial, 2 layers have been created representing Laura Secord's walking route and the destinations of each of the 5 phases.  
 4. Enter the search term **Secord walking route**.
 5. Look for the results that match this image: 
@@ -83,26 +84,25 @@ There are a variety of ways to add data to your map. This tutorial will describe
 9. A layer is selected when there is a vertical blue bar along the side. With the 'Destinations' layer selected, click **Edit layer style** from the right side panel.
 10. From the **Styles** panel, under step 2, click **Style options** below **Pick a style**.
 11. Click the symbol below **Symbol style**.
-12. Click the dropdown for **Basic shapes** and select **Pins**.
-13. Select a pushpin and increase the size to 30.  
+12. Click the dropdown for **Basic Point > Basic shapes > Vector Symbols** and select **Pins**.
+13. Select a pin, click Done then increase the size to 25.  
 14. Click the X at the top of the **Symbol style** panel and click **Done** twice.
 15. Now, let's touch up the symbols for the walking route. Click the **walking route** layer to select it.  
 16. From the **Styles** panel, click **Unique symbols > Style options**.
-   ![image](https://user-images.githubusercontent.com/45638590/167679245-26130c58-62b9-4652-9666-6c61d6d6ff8e.png)
+   ![image pick a style](https://user-images.githubusercontent.com/45638590/167679245-26130c58-62b9-4652-9666-6c61d6d6ff8e.png)
 
-17. Click the colour ramp below "Symbol style" ![image](https://user-images.githubusercontent.com/45638590/167679585-dfa5450c-57e1-46af-b353-14775162c23e.png)
+17. Click the colour ramp below "Symbol style" ![image of symbol style colour ramp](https://user-images.githubusercontent.com/45638590/167679585-dfa5450c-57e1-46af-b353-14775162c23e.png)
 
-18. Scroll down in the **Symbol style** panel and click **Stroke**. 
-19. Adjust the stroke width to 3.
-20. Select an **Arrow** to add an arrowhead to the end of each segment.  
+18. Adjust the width to 3.
+19. Select an **Arrow** to add an arrowhead to the end of each segment.  
 
-    ![image](https://user-images.githubusercontent.com/45638590/167680153-65ac20e3-b7f7-4b29-a20c-af386ac90a3f.png)
-21. Click **Done** twice. 
-22. Save your map ![image](https://user-images.githubusercontent.com/45638590/167680401-f3f09a86-a826-4075-ab2c-4decd3086479.png).  
+    ![image or arrow options](https://user-images.githubusercontent.com/45638590/167680153-65ac20e3-b7f7-4b29-a20c-af386ac90a3f.png)
+20. Click **Done** twice. 
+21. Save your map ![image of save map button](https://user-images.githubusercontent.com/45638590/167680401-f3f09a86-a826-4075-ab2c-4decd3086479.png).  
 
-23. Your map should look similar to the screenshot below.
+22. Your map should look similar to the screenshot below.
 
-![image](https://user-images.githubusercontent.com/45638590/167680298-6fe2d080-f42f-4782-82bc-a10782145592.png)
+    ![image of map view showing pushpins](https://user-images.githubusercontent.com/45638590/235164497-9e6f95d9-0e7f-467f-aa77-e09bf8290d55.png)
 
     
 ---
@@ -113,11 +113,11 @@ There are a variety of ways to add data to your map. This tutorial will describe
 2. From the menu down the right side of the map, click the **Labels** tool ![image](https://user-images.githubusercontent.com/45638590/167680933-0647198e-4ebf-4fae-a4a8-1126cf45f1b8.png). The **Label features** panel opens.  
 3. Click ![image](https://user-images.githubusercontent.com/45638590/167681127-909849e2-2da3-4248-ba8a-6ca1eae8189a.png)  
 4. Under **Label Field** select the field **Destination** and click **Replace**.
-5. Click **Label style** to open this panel.
+5. Click **Label style > Edit Label Style** to open this panel.
 6. Change the colour to black.
 7. Adjust the placement so the **Offset Y** is 10.  
 
-    ![image](https://user-images.githubusercontent.com/45638590/167681687-2bf0436c-4741-40ad-a128-ea9bc1b6eb8c.png)  
+    ![image](https://user-images.githubusercontent.com/45638590/235164735-d9d6c426-75b3-4110-9f1c-9f3ad24abb29.png)  
     
 ---
 
@@ -125,7 +125,7 @@ There are a variety of ways to add data to your map. This tutorial will describe
 
 The features on the map have corresponding attributes in a joined table. These particular layers include a **Description** field that we will use to populate the pop-ups.
 
-1. With the **Destinations** layer selected, click the **Configure pop-ups** tool ![image](https://user-images.githubusercontent.com/45638590/167682093-f223eb78-8140-419d-83d3-13f8dc434ede.png) from the right side menu.  
+1. With the **Destinations** layer selected, click the **Pop-ups** tool ![image](https://user-images.githubusercontent.com/45638590/167682093-f223eb78-8140-419d-83d3-13f8dc434ede.png) from the right side menu.  
 2. Click **Title** and replace the default entry with {Destin}. This will give each pop-up the title that correlates to the destination name.  
    ![image](https://user-images.githubusercontent.com/45638590/167682560-3682efb7-b8e3-4541-9ce8-2628b30affd2.png)
 3. Delete the **Fields list** by clicking the 3 dots and selecting **Delete**.
